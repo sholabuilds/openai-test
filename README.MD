@@ -1,0 +1,1 @@
+Just playing around with OpenAI API, specifically, GPT-3.5 and Dall-E-3.
